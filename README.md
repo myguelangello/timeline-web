@@ -6,7 +6,9 @@
   
     ✅ React + Next.js
     ✅ TypeScript
-    ✅ ESLint
+    ✅ ESLint + Prettier Tawilwind
+      🚀 @Rocketseat/eslint-config
+      🚀 prettier-plugin-tailwindcss
     ✅ TailwindCSS
   
   #### Notes
