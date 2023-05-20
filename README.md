@@ -29,10 +29,10 @@
 
     ```bash
     /app
-    /about
-    /page.tsx
-    /home
-    /page.tsx
-    ...
+      /about
+        /page.tsx
+      /home
+        /page.tsx
+      ...
     ```
 </ul>
