@@ -9,6 +9,7 @@
   <li>✅ ESLint</li>
   <li>✅ TailwindCSS</li>
 </ul>
+
 #### Notes
 <ul>
   <li style="list-style-type: none">📌
@@ -21,16 +22,17 @@
     Roteamento: no Next.js é feito de forma automática pois ele identifica a estrutura de pastas dentro de /app. Tudo
     (.tsx) dentro da /app são páginas.
   </li>
-</ul>
-<li>
-  Exemplo:
-</li>
 
-```bash
-/app
-/about
-/page.tsx
-/home
-/page.tsx
-...
-```
+  <li>
+    Exemplo:
+  </li>
+
+    ```bash
+    /app
+    /about
+    /page.tsx
+    /home
+    /page.tsx
+    ...
+    ```
+</ul>
