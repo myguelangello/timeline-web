@@ -10,7 +10,7 @@
       🚀 @Rocketseat/eslint-config
       🚀 prettier-plugin-tailwindcss
     ✅ TailwindCSS
-    ✖ Fluxo de Autenticação (OAuth)
+    ✅ Fluxo de Autenticação (OAuth)
   
   #### Notes
     ✅ Componentes: são formas de separar o código em pedaços menores e reaproveitáveis (comportamento e visual).
@@ -30,3 +30,5 @@
       - Criada uma nova aplicação no github (OAuth Apps)
       - Gerado o CLIENT_ID (front e back-end) e CLIENT_SECRET (back-end)
       - Fazendo o redirecionamento para o github com o CLIENT_ID e retornando o code
+    
+    ✅ Salvando o token nos cookies
